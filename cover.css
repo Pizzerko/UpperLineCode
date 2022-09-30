@@ -1,0 +1,23 @@
+.cover {
+  width: 350px;
+  height: 500px;
+  background-color: grey;
+  /* finish your styling of the cover div here! */
+}
+#title {
+text-align:center;
+font-size: 65px;
+color:black;
+font-family: 'Courier New', Courier, monospace;
+}
+
+#subtitle {
+font-size: 30px;
+text-align: center;
+color:cyan
+
+}
+
+#cover_image {
+
+}
