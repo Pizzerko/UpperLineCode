@@ -1,24 +1,32 @@
 .page {
-  width:
-  height:
+  width:500px;
+  height: 750px;
+  background-color: rgba(128, 128, 128, 0.63);
 }
 
 #article_title {
-
+font-weight: 1500;
+letter-spacing: 3px;
+font-size: 25px;
+color:#530202e0 ;
 }
 
 #intro {
+font-weight: 650;
 
 }
 
 .question{
-
+font-weight: 650;
+font-size: 18px;
 }
 
 .answer{
-
+font-weight:450;
+font-size:14px;
 }
 
 #block_quote {
-
+font-weight:800;
+font-size: larger;
 }
